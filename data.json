@@ -1,0 +1,67 @@
+{
+    "users": [
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "MITHUN R",
+            "email": "mithunr21@karunya.edu.in",
+            "age": 19,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "MITHUN R",
+            "email": "mithunr21@karunya.edu.in",
+            "age": 20,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "MITHUN",
+            "email": "mithunr21@karunya.edu.in",
+            "age": 0,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "MITHUN",
+            "email": "mithunr21@karunya.edu.in",
+            "age": 20,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "MITHUN R",
+            "email": "monumithu2028@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "1234"
+        },
+        {
+            "name": "MITHUN R",
+            "email": "monumithu2028@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "1234"
+        },
+        {
+            "name": "SARASWATHI",
+            "email": "saraswathi@gmail.com",
+            "age": 35,
+            "sex": "Female",
+            "password": "123"
+        },
+        {
+            "name": "Mithun",
+            "email": "mithunramesh2028@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "Monumithu@2028"
+        }
+    ]
+}
